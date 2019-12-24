@@ -43,5 +43,5 @@ class Api {
 		});
 	}
 }
-Api.baseUrl = "https://service.xiaoyuan.net.cn/garbage/";
+Api.baseUrl = "https://xxxx/garbage/";
 export default Api;
