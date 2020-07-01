@@ -43,5 +43,5 @@ class Api {
 		});
 	}
 }
-Api.baseUrl = "https://xxxx/garbage/";
+Api.baseUrl = "https://garbage.hzb-it.com/garbage/";
 export default Api;
