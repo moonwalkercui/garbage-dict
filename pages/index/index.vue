@@ -19,6 +19,7 @@
 				</view>
 			</view>
 		</view>
+		<view style="text-align: center; font-size: 24upx; color: #555555;">作者QQ：541720500</view>
 		<!-- <view class="card-item">
 			<view class="card-item-header">工具与服务</view>
 			<view class="card-item-content" style="flex-direction: column;">
